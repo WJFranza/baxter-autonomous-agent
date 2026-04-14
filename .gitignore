@@ -1,0 +1,20 @@
+cat > ~/baxter_project/.gitignore << 'EOF'
+# SECURITY: Never commit secrets or runtime data
+config.json
+baxter.db
+*.log
+logs/
+results/
+failed_emails/
+
+# Python virtual env & cache
+baxter_env/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.swp
+EOF
