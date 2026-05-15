@@ -97,6 +97,16 @@ The system should always:
 - Encourage learning
 - Help future technicians understand the environment
 
+- ## Day One Prompt Log
+
+This repository includes the very first saved local interaction used to begin shaping Baxter into a technician-first autonomous infrastructure assistant.
+
+The session captures the early operational philosophy, workflow direction, naming conventions, and infrastructure mindset that became the foundation for the project.
+
+Read the original interaction here:
+
+[Day One — Very First Prompt](https://github.com/WJFranza/baxter-autonomous-agent/blob/main/day-one-very-first-prompt.txt)
+
 ## Related Projects
 
 ### BCBC Git & GitHub Guide
