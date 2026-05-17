@@ -183,3 +183,11 @@ This repository currently represents:
 - Technician-first design patterns
 
 The project is expected to evolve significantly over time.
+
+## Infrastructure Support
+
+Special thank you to **ClouDNS** for supporting reliable DNS infrastructure for BCBC projects.
+
+<img width="1024" height="768" alt="clouddns-logo" src="https://github.com/user-attachments/assets/ae448afd-ce3a-4cb6-8676-efc9cdc41e91" />
+
+---
