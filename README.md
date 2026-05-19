@@ -188,6 +188,6 @@ The project is expected to evolve significantly over time.
 
 Special thank you to **ClouDNS** for supporting reliable DNS infrastructure for BCBC projects.
 
-<img width="1024" height="768" alt="clouddns-logo" src="https://github.com/user-attachments/assets/ae448afd-ce3a-4cb6-8676-efc9cdc41e91" />
 
+<img width="96" height="48" alt="cloudns-logo-crop" src="https://github.com/user-attachments/assets/3d379a71-292a-4dec-9703-635c809c22e5" />
 ---
